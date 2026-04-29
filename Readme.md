@@ -266,8 +266,6 @@ O ambiente foi construído como parte da minha consolidação para a área de **
 
 
 
-Adicionar imagens como:
-
 
 
 \* Configuração de VLANs no switch
@@ -277,6 +275,8 @@ Adicionar imagens como:
 \* Diagrama da rede
 
 \* Interface do Proxmox
+
+\* Mikrotik e Switch
 
 
 
@@ -311,6 +311,4 @@ Projeto desenvolvido como parte da minha evolução na área de **Redes e Segura
 
 
 Estou continuamente aprimorando este ambiente para simular infraestruturas corporativas.
-
-
 
